@@ -22,7 +22,7 @@ This guide will help you host your website on GitHub Pages using a repository na
 - Save the settings.
 
 ### 5. Access Your Site
-- After saving, GitHub Pages will provide a URL to access your hosted website. It will look something like: `https://yourusername.github.io/test-test/`.
+- After saving, GitHub Pages will provide a URL to access your hosted website. It will look something like: `https://yourusername.github.io/pages-test/`.
 
 ## Important Notes:
 - Ensure any external resources used in your website are accessible from your GitHub repository.
