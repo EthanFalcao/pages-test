@@ -1,11 +1,11 @@
 # Hosting Your Website on GitHub Pages
 
-This guide will help you host your website on GitHub Pages using a repository named `test-test`.
+This guide will help you host your website on GitHub Pages using a repository named `pages-test`.
 
 ## Steps to Host Your Website:
 
 ### 1. Create a GitHub Repository
-- Create a new repository on GitHub named `pages-test`.
+- Create a new repository on GitHub, in this example, we are using  `pages-test`.
 
 ### 2. Prepare the Repository
 - Ensure your HTML file is named `index.html` as GitHub Pages uses this file as the main page.
@@ -15,7 +15,7 @@ This guide will help you host your website on GitHub Pages using a repository na
 - Use Git to commit and push your `index.html` file to your `pages-test` repository on GitHub.
 
 ### 4. Enable GitHub Pages
-- Go to your `test-test` repository on GitHub.
+- Go to your `pages-test` repository on GitHub.
 - Click on "Settings."
 - Scroll down to the "GitHub Pages" section.
 - Choose the source branch (e.g., `main` or `master`) and select the `/ (root)` folder as the source.
